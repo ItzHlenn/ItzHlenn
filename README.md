@@ -10,3 +10,10 @@
 ![MySQL](https://img.shields.io/badge/SQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+## 📊 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzHlenn&layout=pie&langs_count=5&theme=default)
+
+
+

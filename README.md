@@ -13,7 +13,8 @@
 
 ## 📊 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzHlenn&layout=pie)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzHlenn&layout=pie&theme=dark)
+
 
 
 

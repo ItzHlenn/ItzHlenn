@@ -1,7 +1,6 @@
 # 👋Ohayō
 
-💻 I'm a C++ enthusiast who loves building things and solving problems.  
-🌱 Currently learning: low-level optimization, competitive programming, and how to survive Mondays.
+💻 A nomarl developer
 
 ## 🛠️ My Tech Stack
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
